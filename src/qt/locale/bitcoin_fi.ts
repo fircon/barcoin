@@ -6,13 +6,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Freicoin</source>
-        <translation>Tietoa Freicoinista</translation>
+        <source>About Barcoin</source>
+        <translation>Tietoa Barcoinista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Freicoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Freicoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;Barcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Barcoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -37,7 +37,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+0"/>
-        <source>The Freicoin developers</source>
+        <source>The Barcoin developers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -70,8 +70,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Freicoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat Freicoin-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
+        <source>These are your Barcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat Barcoin-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -85,8 +85,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Freicoin address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat Freicoin-osoitteen</translation>
+        <source>Sign a message to prove you own a Barcoin address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat Barcoin-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -110,8 +110,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Freicoin address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Freicoin-osoitteella</translation>
+        <source>Verify a message to ensure it was signed with a specified Barcoin address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Barcoin-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -125,7 +125,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Freicoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Barcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -256,12 +256,12 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+0"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FREICOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BARCOINS&lt;/b&gt;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+11"/>
-        <source>Freicoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your freicoins from being stolen by malware infecting your computer.</source>
+        <source>Barcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your barcoins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -363,7 +363,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Näytä Freicoinien vastaanottamiseen käytetyt osoitteet</translation>
+        <translation>Näytä Barcoinien vastaanottamiseen käytetyt osoitteet</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -377,8 +377,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Freicoin</source>
-        <translation>Näytä tietoa Freicoin-projektista</translation>
+        <source>Show information about Barcoin</source>
+        <translation>Näytä tietoa Barcoin-projektista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Freicoin address</source>
-        <translation>Lähetä kolikoita Freicoin-osoitteeseen</translation>
+        <source>Send coins to a Barcoin address</source>
+        <translation>Lähetä kolikoita Barcoin-osoitteeseen</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Freicoin</source>
-        <translation>Muuta Freicoinin konfiguraatioasetuksia</translation>
+        <source>Modify configuration options for Barcoin</source>
+        <translation>Muuta Barcoinin konfiguraatioasetuksia</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -458,8 +458,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Freicoin</source>
-        <translation>Freicoin</translation>
+        <source>Barcoin</source>
+        <translation>Barcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -483,8 +483,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Freicoin</source>
-        <translation>&amp;Tietoa Freicoinista</translation>
+        <source>&amp;About Barcoin</source>
+        <translation>&amp;Tietoa Barcoinista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -494,7 +494,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="+1"/>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota Freicoin-ikkuna</translation>
+        <translation>Näytä tai piilota Barcoin-ikkuna</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -503,13 +503,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Freicoin addresses to prove you own them</source>
-        <translation>Allekirjoita viestisi omalla Freicoin -osoitteellasi todistaaksesi, että omistat ne</translation>
+        <source>Sign messages with your Barcoin addresses to prove you own them</source>
+        <translation>Allekirjoita viestisi omalla Barcoin -osoitteellasi todistaaksesi, että omistat ne</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Freicoin addresses</source>
-        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Freicoin -osoitteella</translation>
+        <source>Verify messages to ensure they were signed with specified Barcoin addresses</source>
+        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Barcoin -osoitteella</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -539,15 +539,15 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+47"/>
-        <source>Freicoin client</source>
-        <translation>Freicoin-asiakas</translation>
+        <source>Barcoin client</source>
+        <translation>Barcoin-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Freicoin network</source>
+        <source>%n active connection(s) to Barcoin network</source>
         <translation>
-            <numerusform>%n aktiivinen yhteys Freicoin-verkkoon</numerusform>
-            <numerusform>%n aktiivista yhteyttä Freicoin-verkkoon</numerusform>
+            <numerusform>%n aktiivinen yhteys Barcoin-verkkoon</numerusform>
+            <numerusform>%n aktiivista yhteyttä Barcoin-verkkoon</numerusform>
         </translation>
     </message>
     <message>
@@ -670,8 +670,8 @@ Osoite: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Freicoin address or malformed URI parameters.</source>
-        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Freicoin-osoitteesta tai virheellisistä URI parametreista.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Barcoin address or malformed URI parameters.</source>
+        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Barcoin-osoitteesta tai virheellisistä URI parametreista.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -685,8 +685,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Freicoin can no longer continue safely and will quit.</source>
-        <translation>Peruuttamaton virhe on tapahtunut. Freicoin ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
+        <source>A fatal error occurred. Barcoin can no longer continue safely and will quit.</source>
+        <translation>Peruuttamaton virhe on tapahtunut. Barcoin ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
     </message>
 </context>
 <context>
@@ -751,8 +751,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Freicoin address.</source>
-        <translation>Antamasi osoite &quot;%1&quot; ei ole validi Freicoin-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Barcoin address.</source>
+        <translation>Antamasi osoite &quot;%1&quot; ei ole validi Barcoin-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -770,8 +770,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Freicoin-Qt</source>
-        <translation>Freicoin-Qt</translation>
+        <source>Barcoin-Qt</source>
+        <translation>Barcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -833,13 +833,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Freicoin after logging in to the system.</source>
-        <translation>Käynnistä Freicoin kirjautumisen yhteydessä.</translation>
+        <source>Automatically start Barcoin after logging in to the system.</source>
+        <translation>Käynnistä Barcoin kirjautumisen yhteydessä.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Freicoin on system login</source>
-        <translation>&amp;Käynnistä Freicoin kirjautumisen yhteydessä</translation>
+        <source>&amp;Start Barcoin on system login</source>
+        <translation>&amp;Käynnistä Barcoin kirjautumisen yhteydessä</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -858,8 +858,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Freicoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Freicoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the Barcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Barcoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -868,8 +868,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Freicoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Ota yhteys Freicoin-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
+        <source>Connect to the Barcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Ota yhteys Barcoin-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -924,7 +924,7 @@ Osoite: %4</translation>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Ikkunaa suljettaessa vain pienentää Freicoin-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
+        <translation>Ikkunaa suljettaessa vain pienentää Barcoin-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -943,8 +943,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Freicoin.</source>
-        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Freicoin käynnistetään.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Barcoin.</source>
+        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Barcoin käynnistetään.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -958,8 +958,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Freicoin addresses in the transaction list or not.</source>
-        <translation>Näytetäänkö Freicoin-osoitteet rahansiirrot listassa vai ei.</translation>
+        <source>Whether to show Barcoin addresses in the transaction list or not.</source>
+        <translation>Näytetäänkö Barcoin-osoitteet rahansiirrot listassa vai ei.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1010,8 +1010,8 @@ Osoite: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Freicoin.</source>
-        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun Freicoin käynnistetään.</translation>
+        <source>This setting will take effect after restarting Barcoin.</source>
+        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun Barcoin käynnistetään.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1029,8 +1029,8 @@ Osoite: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Freicoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Freicoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Barcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Barcoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1065,12 +1065,12 @@ Osoite: %4</translation>
     <message>
         <location line="-101"/>
         <source>Your current balance</source>
-        <translation>Tililläsi tällä hetkellä olevien Freicoinien määrä</translation>
+        <translation>Tililläsi tällä hetkellä olevien Barcoinien määrä</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Niiden saapuvien rahansiirtojen määrä, joita Freicoin-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
+        <translation>Niiden saapuvien rahansiirtojen määrä, joita Barcoin-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+117"/>
@@ -1083,7 +1083,7 @@ Osoite: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start freicoin: click-to-pay handler</source>
+        <source>Cannot start barcoin: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1233,8 +1233,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Freicoin-Qt help message to get a list with possible Freicoin command-line options.</source>
-        <translation>Näytä Freicoin-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
+        <source>Show the Barcoin-Qt help message to get a list with possible Barcoin command-line options.</source>
+        <translation>Näytä Barcoin-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,13 +1253,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Freicoin - Debug window</source>
-        <translation>Freicoin - Debug ikkuna</translation>
+        <source>Barcoin - Debug window</source>
+        <translation>Barcoin - Debug ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Freicoin Core</source>
-        <translation>Freicoin-ydin</translation>
+        <source>Barcoin Core</source>
+        <translation>Barcoin-ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1268,7 +1268,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Freicoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Barcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Avaa lokitiedosto nykyisestä data-kansiosta. Tämä voi viedä useamman sekunnin, jos lokitiedosto on iso.</translation>
     </message>
     <message>
@@ -1278,8 +1278,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Freicoin RPC console.</source>
-        <translation>Tervetuloa Freicoin RPC konsoliin.</translation>
+        <source>Welcome to the Barcoin RPC console.</source>
+        <translation>Tervetuloa Barcoin RPC konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1304,7 +1304,7 @@ Osoite: %4</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä Freicoineja</translation>
+        <translation>Lähetä Barcoineja</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1333,8 +1333,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 FRC</source>
-        <translation>123,456 FRC</translation>
+        <source>123.456 BAR</source>
+        <translation>123,456 BAR</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1354,7 +1354,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Hyväksy Freicoinien lähettäminen</translation>
+        <translation>Hyväksy Barcoinien lähettäminen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1374,7 +1374,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Maksettavan summan tulee olla suurempi kuin 0 Freicoinia.</translation>
+        <translation>Maksettavan summan tulee olla suurempi kuin 0 Barcoinia.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1462,8 +1462,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Freicoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Anna Freicoin-osoite (esim. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Barcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Anna Barcoin-osoite (esim. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1527,8 +1527,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Freicoin address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Freicoin-osoitteen</translation>
+        <source>Sign the message to prove you own this Barcoin address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Barcoin-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,8 +1563,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Freicoin address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Freicoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Barcoin address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Barcoin-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1579,8 +1579,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Freicoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Anna Freicoin-osoite (esim. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Barcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Anna Barcoin-osoite (esim. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1589,8 +1589,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Freicoin signature</source>
-        <translation>Syötä Freicoin-allekirjoitus</translation>
+        <source>Enter Barcoin signature</source>
+        <translation>Syötä Barcoin-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1663,7 +1663,7 @@ Osoite: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Freicoin developers</source>
+        <source>The Barcoin developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1994,7 +1994,7 @@ Osoite: %4</translation>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>Rahansiirron kohteen Freicoin-osoite</translation>
+        <translation>Rahansiirron kohteen Barcoin-osoite</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2186,7 +2186,7 @@ Osoite: %4</translation>
     <message>
         <location filename="../walletmodel.cpp" line="+197"/>
         <source>Send Coins</source>
-        <translation>Lähetä Freicoineja</translation>
+        <translation>Lähetä Barcoineja</translation>
     </message>
 </context>
 <context>
@@ -2236,8 +2236,8 @@ Osoite: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+131"/>
-        <source>Freicoin version</source>
-        <translation>Freicoinin versio</translation>
+        <source>Barcoin version</source>
+        <translation>Barcoinin versio</translation>
     </message>
     <message>
         <location line="+66"/>
@@ -2341,7 +2341,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Freicoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Barcoin is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2386,8 +2386,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Freicoin will not work properly.</source>
-        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! Freicoin ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Barcoin will not work properly.</source>
+        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! Barcoin ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2551,7 +2551,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Send command to -server or freicoind</source>
+        <source>Send command to -server or barcoind</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2561,12 +2561,12 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify configuration file (default: freicoin.conf)</source>
+        <source>Specify configuration file (default: barcoin.conf)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: freicoind.pid)</source>
+        <source>Specify pid file (default: barcoind.pid)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2589,13 +2589,13 @@ Osoite: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=freicoinrpc
+rpcuser=barcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Freicoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Barcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -2666,8 +2666,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Freicoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Freicoin Wiki for SSL setup instructions)</source>
-        <translation>SSL asetukset (katso Freicoin Wikistä tarkemmat SSL ohjeet)</translation>
+        <source>SSL options: (see the Barcoin Wiki for SSL setup instructions)</source>
+        <translation>SSL asetukset (katso Barcoin Wikistä tarkemmat SSL ohjeet)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2857,13 +2857,13 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Freicoin</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Freicoinista</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Barcoin</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Barcoinista</translation>
     </message>
     <message>
         <location line="+94"/>
-        <source>Wallet needed to be rewritten: restart Freicoin to complete</source>
-        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Freicoin uudelleen</translation>
+        <source>Wallet needed to be rewritten: restart Barcoin to complete</source>
+        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Barcoin uudelleen</translation>
     </message>
     <message>
         <location line="-96"/>
@@ -2922,8 +2922,8 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Freicoin is probably already running.</source>
-        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. Freicoin on todennäköisesti jo ajamassa.</translation>
+        <source>Unable to bind to %s on this computer. Barcoin is probably already running.</source>
+        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. Barcoin on todennäköisesti jo ajamassa.</translation>
     </message>
     <message>
         <location line="+63"/>

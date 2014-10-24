@@ -64,7 +64,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Freicoin Signed Message:\n";
+const string strMessageMagic = "Barcoin Signed Message:\n";
 
 double dHashesPerSec = 0.0;
 int64 nHPSTimerStart = 0;
@@ -1507,7 +1507,7 @@ mpq static GetBlockValue(int nHeight, const mpq& nFees)
            GetPerpetualSubsidyAmount(nHeight) + nFees;
 }
 
-static const int64 nTargetSpacing = 10 * 60;
+static const int64 nTargetSpacing = 60;
 static const int64 nOriginalInterval = 2016;
 static const int64 nFilteredInterval =    9;
 static const int64 nOriginalTargetTimespan = nOriginalInterval * nTargetSpacing; // two weeks
@@ -3423,7 +3423,7 @@ Let this be the awaited dawn.";
             << ParseHex("c26be5ec809aa4bf6b30aa89823cff7cedc3679a")
             << OP_EQUALVERIFY
             << OP_CHECKSIG;
-        const char* pszMessage4 = "Ich w\xc3\xbc""nsche Freicoin viel Erfolg zum Nutzen der 99 Prozent!";
+        const char* pszMessage4 = "Ich w\xc3\xbc""nsche Barcoin viel Erfolg zum Nutzen der 99 Prozent!";
         txNew.vout[4].SetInitialValue(1LL);
         txNew.vout[4].scriptPubKey = CScript()
             << ParseHex("202020202020")
@@ -3477,13 +3477,13 @@ Let this be the awaited dawn.";
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1356123600;
+        block.nTime    = 1414169066;
         block.nBits    = 0x1d00ffff;
         block.nNonce   =  278229610;
 
         if (fTestNet)
         {
-            block.nTime    = 1356123600;
+            block.nTime    = 1414169066;
             block.nNonce   = 3098244593;
         }
 

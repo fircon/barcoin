@@ -55,7 +55,7 @@ static const mpq MPQ_MAX_MONEY = mpq("9999999999999999/1");
 inline bool MoneyRange(int64 nValue) { return (nValue >= 0 && nValue <= I64_MAX_MONEY); }
 inline bool MoneyRange(mpz zValue) { return (zValue >= 0 && zValue <= MPZ_MAX_MONEY); }
 inline bool MoneyRange(mpq qValue) { return (qValue >= 0 && qValue <= MPQ_MAX_MONEY); }
-/** Subsidy, demurrage, and budgetary requirements for Freicoin host currency */
+/** Subsidy, demurrage, and budgetary requirements for Barcoin host currency */
 static const int EQ_HEIGHT = 161280;
 static const mpq TITHE_RATIO = mpq("4/5");
 static const mpq TITHE_AMOUNT = MPQ_MAX_MONEY * TITHE_RATIO / EQ_HEIGHT;
@@ -658,7 +658,7 @@ public:
     {
         // Large (in bytes) low-priority (new, small-coin) transactions
         // need a fee.
-        return dPriority > COIN * 144 / 250;
+        return dPriority > COIN * 1440 / 250;
     }
 
     mpq GetMinFee(unsigned int nBlockSize=1, bool fAllowFree=true, enum GetMinFee_mode mode=GMF_BLOCK) const;

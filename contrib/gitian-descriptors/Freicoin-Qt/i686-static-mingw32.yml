@@ -1,5 +1,5 @@
 ---
-name: "Freicoin-Qt"
+name: "Barcoin-Qt"
 suites:
 - "precise"
 architectures:
@@ -32,7 +32,7 @@ script: |
   
   BOOST_VER=1_50_0
   DB_VER=4.8.30.NC
-  FREICOIN_VER=0.8.6.1
+  BARCOIN_VER=0.8.6.1
   GMP_VER=5.1.2
   LIBPNG_VER=1.6.3
   MINIUPNPC_VER=1.8
@@ -73,9 +73,9 @@ script: |
   popd
   export PATH=$PREFIX/bin:$PREFIX/usr/bin:$PATH
   
-  mkdir -p "$BUILD"/src/freicoin
-  tar -C "$BUILD"/src/freicoin -xf "$GITIANDIR"/src-local.tar.xz
-  pushd "$BUILD"/src/freicoin
+  mkdir -p "$BUILD"/src/barcoin
+  tar -C "$BUILD"/src/barcoin -xf "$GITIANDIR"/src-local.tar.xz
+  pushd "$BUILD"/src/barcoin
   QMAKEPATH="$PREFIX" \
   QMAKESPEC=unsupported/win32-g++-cross \
   qmake \
@@ -89,17 +89,17 @@ script: |
     USE_DBUS=0
   sed -r 's:-lgdi32 (.+) -lcrypto:\1 -lcrypto -lgdi32:' -i Makefile.Release
   make
-  ${TARGET}-strip release/freicoin-qt.exe
+  ${TARGET}-strip release/barcoin-qt.exe
   find "$PREFIX" -mindepth 1 -maxdepth 1 -print0 | xargs -0 rm -rf
   popd
   
   mkdir -p "$PREFIX"/bin
-  cp -a "$BUILD"/src/freicoin/release/freicoin-qt.exe "$PREFIX"/bin/Freicoin-Qt.exe
+  cp -a "$BUILD"/src/barcoin/release/barcoin-qt.exe "$PREFIX"/bin/Barcoin-Qt.exe
   
   mkdir -p "$PREFIX"/src
   tar -C "$PREFIX"/src -xf "$GITIANDIR"/src-local.tar.xz
   
   pushd "$PREFIX"
   find * -not -type d -print0 | sort -z | xargs -0 \
-    zip -r "$OUTDIR"/Freicoin-Qt-${TARGET}-${FREICOIN_VER}-gitian.zip
+    zip -r "$OUTDIR"/Barcoin-Qt-${TARGET}-${BARCOIN_VER}-gitian.zip
   popd

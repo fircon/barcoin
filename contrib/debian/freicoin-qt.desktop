@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Freicoin
-Comment=Freicoin P2P Cryptocurrency
-Comment[fr]=Freicoin, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Freicoin, eşten eşe kriptografik sanal para birimi
-Exec=/usr/bin/freicoin-qt %u
+Name=Barcoin
+Comment=Barcoin P2P Cryptocurrency
+Comment[fr]=Barcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Barcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/barcoin-qt %u
 Terminal=false
 Type=Application
-Icon=/usr/share/pixmaps/freicoin128.png
-MimeType=x-scheme-handler/freicoin;
+Icon=/usr/share/pixmaps/barcoin128.png
+MimeType=x-scheme-handler/barcoin;
 Categories=Office; Finance;

@@ -1,8 +1,8 @@
 Format: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?rev=174
-Upstream-Name: Freicoin
+Upstream-Name: Barcoin
 Upstream-Contact: Mark Friedenbach <mark@monetize.io>
- irc://#freicoin@freenode.net
-Source: https://github.com/freicoin/freicoin
+ irc://#barcoin@freenode.net
+Source: https://github.com/barcoin/barcoin
 
 Files: *
 Copyright: 2009-2012, Bitcoin Developers

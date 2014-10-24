@@ -1,5 +1,5 @@
 /* XPM */
-static char * freicoin128_xpm[] = {
+static char * barcoin128_xpm[] = {
 "128 128 1330 2",
 "  	c None",
 ". 	c #000001",

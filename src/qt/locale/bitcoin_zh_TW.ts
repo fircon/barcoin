@@ -6,12 +6,12 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Freicoin</source>
+        <source>About Barcoin</source>
         <translation>關於位元幣</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Freicoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Barcoin&lt;/b&gt; version</source>
         <translation>&lt;b&gt;位元幣&lt;/b&gt;版本</translation>
     </message>
     <message>
@@ -36,7 +36,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Freicoin developers</source>
+        <source>The Barcoin developers</source>
         <translation>位元幣開發人員</translation>
     </message>
 </context>
@@ -69,7 +69,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Freicoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Barcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>這些是你用來收款的位元幣位址. 你可以提供不同的位址給不同的付款人, 來追蹤是誰支付給你.</translation>
     </message>
     <message>
@@ -84,7 +84,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Freicoin address</source>
+        <source>Sign a message to prove you own a Barcoin address</source>
         <translation>簽署訊息是用來證明位元幣位址是你的</translation>
     </message>
     <message>
@@ -109,7 +109,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Freicoin address</source>
+        <source>Verify a message to ensure it was signed with a specified Barcoin address</source>
         <translation>驗證訊息是用來確認訊息是用指定的位元幣位址簽署的</translation>
     </message>
     <message>
@@ -124,7 +124,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Freicoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Barcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>這是你用來付款的位元幣位址. 在付錢之前, 務必要檢查金額和收款位址是否正確.</translation>
     </message>
     <message>
@@ -255,12 +255,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FREICOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BARCOINS&lt;/b&gt;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+11"/>
-        <source>Freicoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your freicoins from being stolen by malware infecting your computer.</source>
+        <source>Barcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your barcoins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -376,7 +376,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Freicoin</source>
+        <source>Show information about Barcoin</source>
         <translation>顯示位元幣相關資訊</translation>
     </message>
     <message>
@@ -421,12 +421,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Freicoin address</source>
+        <source>Send coins to a Barcoin address</source>
         <translation>付錢到位元幣位址</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Freicoin</source>
+        <source>Modify configuration options for Barcoin</source>
         <translation>修改位元幣的設定選項</translation>
     </message>
     <message>
@@ -457,7 +457,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Freicoin</source>
+        <source>Barcoin</source>
         <translation>位元幣</translation>
     </message>
     <message>
@@ -482,7 +482,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Freicoin</source>
+        <source>&amp;About Barcoin</source>
         <translation>關於位元幣</translation>
     </message>
     <message>
@@ -502,12 +502,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Freicoin addresses to prove you own them</source>
+        <source>Sign messages with your Barcoin addresses to prove you own them</source>
         <translation>用位元幣位址簽署訊息來證明那是你的</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Freicoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Barcoin addresses</source>
         <translation>驗證訊息來確認是用指定的位元幣位址簽署的</translation>
     </message>
     <message>
@@ -538,12 +538,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Freicoin client</source>
+        <source>Barcoin client</source>
         <translation>位元幣客戶端軟體</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Freicoin network</source>
+        <source>%n active connection(s) to Barcoin network</source>
         <translation>
             <numerusform>與位元幣網路有 %n 個連線在使用中</numerusform>
         </translation>
@@ -665,7 +665,7 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Freicoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Barcoin address or malformed URI parameters.</source>
         <translation>無法解析 URI! 也許位元幣位址無效或 URI 參數有誤.</translation>
     </message>
     <message>
@@ -680,7 +680,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Freicoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Barcoin can no longer continue safely and will quit.</source>
         <translation>發生了致命的錯誤. 位元幣程式無法再繼續安全執行, 只好結束.</translation>
     </message>
 </context>
@@ -746,7 +746,7 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Freicoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Barcoin address.</source>
         <translation>輸入的位址 &quot;%1&quot; 並不是有效的位元幣位址.</translation>
     </message>
     <message>
@@ -765,7 +765,7 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Freicoin-Qt</source>
+        <source>Barcoin-Qt</source>
         <translation>位元幣-Qt</translation>
     </message>
     <message>
@@ -829,12 +829,12 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Freicoin after logging in to the system.</source>
+        <source>Automatically start Barcoin after logging in to the system.</source>
         <translation>在登入系統後自動啓動位元幣.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Freicoin on system login</source>
+        <source>&amp;Start Barcoin on system login</source>
         <translation>系統登入時啟動位元幣</translation>
     </message>
     <message>
@@ -854,8 +854,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Freicoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自動在路由器上開啟 Freicoin 的客戶端通訊埠. 只有在你的路由器支援 UPnP 且開啟時才有作用.</translation>
+        <source>Automatically open the Barcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>自動在路由器上開啟 Barcoin 的客戶端通訊埠. 只有在你的路由器支援 UPnP 且開啟時才有作用.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -864,7 +864,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Freicoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Barcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>透過 SOCKS 代理伺服器連線至位元幣網路 (比如說要透過 Tor 連線).</translation>
     </message>
     <message>
@@ -939,7 +939,7 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Freicoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Barcoin.</source>
         <translation>可以在這裡設定使用者介面的語言. 這個設定在位元幣程式重啓後才會生效.</translation>
     </message>
     <message>
@@ -954,7 +954,7 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Freicoin addresses in the transaction list or not.</source>
+        <source>Whether to show Barcoin addresses in the transaction list or not.</source>
         <translation>是否要在交易列表中顯示位元幣位址.</translation>
     </message>
     <message>
@@ -1006,7 +1006,7 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Freicoin.</source>
+        <source>This setting will take effect after restarting Barcoin.</source>
         <translation>這個設定會在位元幣程式重啓後生效.</translation>
     </message>
     <message>
@@ -1025,7 +1025,7 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Freicoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Barcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>顯示的資訊可能是過期的. 與位元幣網路的連線建立後, 你的錢包會自動和網路同步, 但這個步驟還沒完成.</translation>
     </message>
     <message>
@@ -1079,7 +1079,7 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start freicoin: click-to-pay handler</source>
+        <source>Cannot start barcoin: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1229,7 +1229,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Freicoin-Qt help message to get a list with possible Freicoin command-line options.</source>
+        <source>Show the Barcoin-Qt help message to get a list with possible Barcoin command-line options.</source>
         <translation>顯示位元幣-Qt的求助訊息, 來取得可用的命令列選項列表.</translation>
     </message>
     <message>
@@ -1249,12 +1249,12 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Freicoin - Debug window</source>
+        <source>Barcoin - Debug window</source>
         <translation>位元幣 - 除錯視窗</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Freicoin Core</source>
+        <source>Barcoin Core</source>
         <translation>位元幣核心</translation>
     </message>
     <message>
@@ -1264,7 +1264,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Freicoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Barcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>從目前的資料目錄下開啓位元幣的除錯紀錄檔. 當紀錄檔很大時可能要花好幾秒的時間.</translation>
     </message>
     <message>
@@ -1274,7 +1274,7 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Freicoin RPC console.</source>
+        <source>Welcome to the Barcoin RPC console.</source>
         <translation>歡迎使用位元幣 RPC 主控台.</translation>
     </message>
     <message>
@@ -1329,8 +1329,8 @@ Address: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 FRC</source>
-        <translation>123.456 FRC</translation>
+        <source>123.456 BAR</source>
+        <translation>123.456 BAR</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1458,7 +1458,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Freicoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Barcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>輸入位元幣位址 (比如說 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
@@ -1523,7 +1523,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Freicoin address</source>
+        <source>Sign the message to prove you own this Barcoin address</source>
         <translation>簽署訊息是用來證明這個位元幣位址是你的</translation>
     </message>
     <message>
@@ -1559,7 +1559,7 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Freicoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Barcoin address</source>
         <translation>驗證訊息是用來確認訊息是用指定的位元幣位址簽署的</translation>
     </message>
     <message>
@@ -1575,7 +1575,7 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Freicoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Barcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>輸入位元幣位址 (比如說 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
@@ -1585,7 +1585,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Freicoin signature</source>
+        <source>Enter Barcoin signature</source>
         <translation>輸入位元幣簽章</translation>
     </message>
     <message>
@@ -1659,7 +1659,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Freicoin developers</source>
+        <source>The Barcoin developers</source>
         <translation>位元幣開發人員</translation>
     </message>
     <message>
@@ -2227,7 +2227,7 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+131"/>
-        <source>Freicoin version</source>
+        <source>Barcoin version</source>
         <translation>位元幣版本</translation>
     </message>
     <message>
@@ -2338,7 +2338,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Freicoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Barcoin is probably already running.</source>
         <translation>無法鎖定資料目錄 %s. 也許位元幣已經在執行了.</translation>
     </message>
     <message>
@@ -2383,7 +2383,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Freicoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Barcoin will not work properly.</source>
         <translation>警告: 請檢查電腦時間與日期是否正確! 位元幣無法在時鐘不準的情況下正常運作.</translation>
     </message>
     <message>
@@ -2548,7 +2548,7 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Send command to -server or freicoind</source>
+        <source>Send command to -server or barcoind</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2558,12 +2558,12 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify configuration file (default: freicoin.conf)</source>
+        <source>Specify configuration file (default: barcoin.conf)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: freicoind.pid)</source>
+        <source>Specify pid file (default: barcoind.pid)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2586,13 +2586,13 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=freicoinrpc
+rpcuser=barcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Freicoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Barcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -2663,8 +2663,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Freicoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Freicoin Wiki for SSL setup instructions)</source>
-        <translation>SSL 選項: (SSL 設定程序請見 Freicoin Wiki)</translation>
+        <source>SSL options: (see the Barcoin Wiki for SSL setup instructions)</source>
+        <translation>SSL 選項: (SSL 設定程序請見 Barcoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2860,12 +2860,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Freicoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Freicoin</source>
-        <translation>載入檔案 wallet.dat 失敗: 此錢包需要新版的 Freicoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Barcoin</source>
+        <translation>載入檔案 wallet.dat 失敗: 此錢包需要新版的 Barcoin</translation>
     </message>
     <message>
         <location line="+94"/>
-        <source>Wallet needed to be rewritten: restart Freicoin to complete</source>
+        <source>Wallet needed to be rewritten: restart Barcoin to complete</source>
         <translation>錢包需要重寫: 請重啟位元幣來完成</translation>
     </message>
     <message>
@@ -2925,7 +2925,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Freicoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Freicoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Barcoin is probably already running.</source>
         <translation>無法和這台電腦上的 %s 繫結. 也許位元幣已經在執行了.</translation>
     </message>
     <message>

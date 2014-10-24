@@ -6,13 +6,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Freicoin</source>
-        <translation>О Freicoin</translation>
+        <source>About Barcoin</source>
+        <translation>О Barcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Freicoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Freicoin&lt;/b&gt; версии</translation>
+        <source>&lt;b&gt;Barcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Barcoin&lt;/b&gt; версии</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -36,8 +36,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Freicoin developers</source>
-        <translation>Разработчики Freicoin</translation>
+        <source>The Barcoin developers</source>
+        <translation>Разработчики Barcoin</translation>
     </message>
 </context>
 <context>
@@ -64,8 +64,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+25"/>
-        <source>Sign a message to prove you own a Freicoin address</source>
-        <translation>Подписать сообщение для доказательства, что вы владеете адресом Freicoin</translation>
+        <source>Sign a message to prove you own a Barcoin address</source>
+        <translation>Подписать сообщение для доказательства, что вы владеете адресом Barcoin</translation>
     </message>
     <message>
         <location line="-36"/>
@@ -89,8 +89,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Verify a message to ensure it was signed with a specified Freicoin address</source>
-        <translation>Проверить сообщение для удостоверения, что оно было подписано указанным адресом Freicoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Barcoin address</source>
+        <translation>Проверить сообщение для удостоверения, что оно было подписано указанным адресом Barcoin</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -119,13 +119,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+58"/>
-        <source>These are your Freicoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Barcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Ваши адреса для получения средств. Совет: проверьте сумму и адрес назначения перед переводом.</translation>
     </message>
     <message>
         <location line="+5"/>
-        <source>These are your Freicoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Здесь ваши адреса Freicoin для получения платежей. Вы можете захотеть указать разные для каждого отправителя, чтобы отслеживать кто платит вам</translation>
+        <source>These are your Barcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Здесь ваши адреса Barcoin для получения платежей. Вы можете захотеть указать разные для каждого отправителя, чтобы отслеживать кто платит вам</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -255,13 +255,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FREICOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BARCOINS&lt;/b&gt;!</source>
         <translation>Предупреждение: если вы зашифровали свой кошелек и забудете свою кодовую фразу, вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ ВАШИ ФРЕЙКОИНЫ&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+11"/>
-        <source>Freicoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your freicoins from being stolen by malware infecting your computer.</source>
-        <translation>Freicoin закроется сейчас чтобы завершить процесс зашифровки. Помните, что зашифровав свой кошелек, вы не сможете полностью защитить свои фрейкоины от кражи вредоносным ПО, заражающим ваш компьютер.</translation>
+        <source>Barcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your barcoins from being stolen by malware infecting your computer.</source>
+        <translation>Barcoin закроется сейчас чтобы завершить процесс зашифровки. Помните, что зашифровав свой кошелек, вы не сможете полностью защитить свои фрейкоины от кражи вредоносным ПО, заражающим ваш компьютер.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -585,47 +585,47 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-475"/>
         <location line="+530"/>
-        <source>Freicoin</source>
-        <translation>Freicoin</translation>
+        <source>Barcoin</source>
+        <translation>Barcoin</translation>
     </message>
     <message>
         <location line="-428"/>
-        <source>Send coins to a Freicoin address</source>
-        <translation>Отправить монеты на указанный адрес Freicoin</translation>
+        <source>Send coins to a Barcoin address</source>
+        <translation>Отправить монеты на указанный адрес Barcoin</translation>
     </message>
     <message>
         <location line="+42"/>
-        <source>&amp;About Freicoin</source>
-        <translation>&amp;О Freicoin</translation>
+        <source>&amp;About Barcoin</source>
+        <translation>&amp;О Barcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Freicoin</source>
-        <translation>Показать информацию о Freicoin&apos;е</translation>
+        <source>Show information about Barcoin</source>
+        <translation>Показать информацию о Barcoin&apos;е</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Modify configuration options for Freicoin</source>
-        <translation>Изменить параметры конфигурации Freicoin</translation>
+        <source>Modify configuration options for Barcoin</source>
+        <translation>Изменить параметры конфигурации Barcoin</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Sign messages with your Freicoin addresses to prove you own them</source>
-        <translation>Подписать сообщения вашим адресом Freicoin, чтобы доказать, что вы им владеете</translation>
+        <source>Sign messages with your Barcoin addresses to prove you own them</source>
+        <translation>Подписать сообщения вашим адресом Barcoin, чтобы доказать, что вы им владеете</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Freicoin addresses</source>
-        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определенным адресом Freicoin</translation>
+        <source>Verify messages to ensure they were signed with specified Barcoin addresses</source>
+        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определенным адресом Barcoin</translation>
     </message>
     <message>
         <location line="+124"/>
-        <source>Freicoin client</source>
-        <translation>Freicoin клиент</translation>
+        <source>Barcoin client</source>
+        <translation>Barcoin клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Freicoin network</source>
+        <source>%n active connection(s) to Barcoin network</source>
         <translation>
             <numerusform>%n активное соединение с сетью</numerusform>
             <numerusform>%n активных соединений с сетью</numerusform>
@@ -674,8 +674,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Freicoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Freicoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Barcoin address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Barcoin или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -689,8 +689,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Freicoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. Freicoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. Barcoin can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. Barcoin не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -750,8 +750,8 @@ Address: %4
     </message>
     <message>
         <location line="+71"/>
-        <source>The entered address &quot;%1&quot; is not a valid Freicoin address.</source>
-        <translation>Введенный адрес &quot;%1&quot; не является корректным адресом Freicoin.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Barcoin address.</source>
+        <translation>Введенный адрес &quot;%1&quot; не является корректным адресом Barcoin.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -779,8 +779,8 @@ Address: %4
     <message>
         <location line="+0"/>
         <location line="+12"/>
-        <source>Freicoin-Qt</source>
-        <translation>Freicoin-Qt</translation>
+        <source>Barcoin-Qt</source>
+        <translation>Barcoin-Qt</translation>
     </message>
     <message>
         <location line="-10"/>
@@ -857,23 +857,23 @@ Address: %4
     </message>
     <message>
         <location line="-63"/>
-        <source>Automatically start Freicoin after logging in to the system.</source>
-        <translation>Автоматически запускать Freicoin после входа в систему.</translation>
+        <source>Automatically start Barcoin after logging in to the system.</source>
+        <translation>Автоматически запускать Barcoin после входа в систему.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Freicoin on system login</source>
-        <translation>&amp;Запускать Freicoin при входе в систему</translation>
+        <source>&amp;Start Barcoin on system login</source>
+        <translation>&amp;Запускать Barcoin при входе в систему</translation>
     </message>
     <message>
         <location line="+57"/>
-        <source>Automatically open the Freicoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открывать клиентский порт Freicoin на роутере. Это работает если ваш роутер поддерживает UPnP и его поддержка включена.</translation>
+        <source>Automatically open the Barcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открывать клиентский порт Barcoin на роутере. Это работает если ваш роутер поддерживает UPnP и его поддержка включена.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Connect to the Freicoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Соединяться с сетью Freicoin через SOCKS прокси (например при использовании Tor)</translation>
+        <source>Connect to the Barcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Соединяться с сетью Barcoin через SOCKS прокси (например при использовании Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -947,13 +947,13 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Freicoin.</source>
-        <translation>Здесь может быть установлен язык пользовательского интерфейса. Настройка будет применена после перезапуска Freicoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Barcoin.</source>
+        <translation>Здесь может быть установлен язык пользовательского интерфейса. Настройка будет применена после перезапуска Barcoin.</translation>
     </message>
     <message>
         <location line="+33"/>
-        <source>Whether to show Freicoin addresses in the transaction list or not.</source>
-        <translation>Показывать Freicoin адрес в списке операций или нет.</translation>
+        <source>Whether to show Barcoin addresses in the transaction list or not.</source>
+        <translation>Показывать Barcoin адрес в списке операций или нет.</translation>
     </message>
     <message>
         <location line="-22"/>
@@ -1014,8 +1014,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Freicoin.</source>
-        <translation>Эта установка будет применена после перезапуска Freicoin.</translation>
+        <source>This setting will take effect after restarting Barcoin.</source>
+        <translation>Эта установка будет применена после перезапуска Barcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1048,8 +1048,8 @@ Address: %4
     <message>
         <location line="+7"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Freicoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш кошелек автоматически синхронизируется с сетью Freicoin после установления соединения, но этот процесс еще не завершился.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Barcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш кошелек автоматически синхронизируется с сетью Barcoin после установления соединения, но этот процесс еще не завершился.</translation>
     </message>
     <message>
         <location line="-66"/>
@@ -1087,8 +1087,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start freicoin: click-to-pay handler</source>
-        <translation>Невозможно запустить обработчик ссылок freicoin</translation>
+        <source>Cannot start barcoin: click-to-pay handler</source>
+        <translation>Невозможно запустить обработчик ссылок barcoin</translation>
     </message>
 </context>
 <context>
@@ -1182,13 +1182,13 @@ Address: %4
     </message>
     <message>
         <location line="-10"/>
-        <source>Freicoin - Debug window</source>
-        <translation>Freicoin - окно отладки</translation>
+        <source>Barcoin - Debug window</source>
+        <translation>Barcoin - окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Freicoin Core</source>
-        <translation>Ядро Freicoin</translation>
+        <source>Barcoin Core</source>
+        <translation>Ядро Barcoin</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -1237,8 +1237,8 @@ Address: %4
     </message>
     <message>
         <location line="+49"/>
-        <source>Open the Freicoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный файл Freicoin из текущего каталога. Это может занять несколько секунд для файлов большого размера.</translation>
+        <source>Open the Barcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный файл Barcoin из текущего каталога. Это может занять несколько секунд для файлов большого размера.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1252,8 +1252,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Freicoin-Qt help message to get a list with possible Freicoin command-line options.</source>
-        <translation>Показать окно помощи Freicoin-Qt для получения списка возможных параметров командной строки Freicoin.</translation>
+        <source>Show the Barcoin-Qt help message to get a list with possible Barcoin command-line options.</source>
+        <translation>Показать окно помощи Barcoin-Qt для получения списка возможных параметров командной строки Barcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1282,8 +1282,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Freicoin RPC console.</source>
-        <translation>Добро пожаловать в RPC консоль Freicoin.</translation>
+        <source>Welcome to the Barcoin RPC console.</source>
+        <translation>Добро пожаловать в RPC консоль Barcoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1337,8 +1337,8 @@ Address: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 FRC</source>
-        <translation>123.456 FRC</translation>
+        <source>123.456 BAR</source>
+        <translation>123.456 BAR</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1466,8 +1466,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Freicoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введите адрес Freicoin (например 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Barcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Введите адрес Barcoin (например 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1531,13 +1531,13 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Freicoin address</source>
-        <translation>Подписать сообщение для доказательства владения адресом Freicoin</translation>
+        <source>Sign the message to prove you own this Barcoin address</source>
+        <translation>Подписать сообщение для доказательства владения адресом Barcoin</translation>
     </message>
     <message>
         <location line="+146"/>
-        <source>Verify the message to ensure it was signed with the specified Freicoin address</source>
-        <translation>Проверить сообщение для удостоверения, что оно было подписано указанным адресом Freicoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Barcoin address</source>
+        <translation>Проверить сообщение для удостоверения, что оно было подписано указанным адресом Barcoin</translation>
     </message>
     <message>
         <location line="-143"/>
@@ -1588,13 +1588,13 @@ Address: %4
     <message>
         <location line="-1"/>
         <location line="+3"/>
-        <source>Enter a Freicoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введите адрес Freicoin (например. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Barcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Введите адрес Barcoin (например. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Enter Freicoin signature</source>
-        <translation>Введите подпись Freicoin</translation>
+        <source>Enter Barcoin signature</source>
+        <translation>Введите подпись Barcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1667,8 +1667,8 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Freicoin developers</source>
-        <translation>Разработчики Freicoin</translation>
+        <source>The Barcoin developers</source>
+        <translation>Разработчики Barcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2546,9 +2546,9 @@ Address: %4
     </message>
     <message>
         <location line="+4"/>
-        <source>SSL options: (see the Freicoin Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the Barcoin Wiki for SSL setup instructions)</source>
         <translation>
-Параметры SSL: (см. Freicoin Wiki для инструкций по настройке SSL)</translation>
+Параметры SSL: (см. Barcoin Wiki для инструкций по настройке SSL)</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2575,30 +2575,30 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=freicoinrpc
+rpcuser=barcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Freicoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Barcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, вы должны установить rpcpassword в конфигурационном файле:
  %s
 Рекомендуется использовать следующий случайный пароль:
-rpcuser=freicoinrpc
+rpcuser=barcoinrpc
 rpcpassword=%s
 (вам не нужно его запоминать)
 Имя и пароль НЕ ДОЛЖНЫ СОВПАДАТЬ
 Если файл не существует, создайте его с правом чтения только для владельца.
 Также рекомендуется установить alertnotify для получения оповещений о проблемах;
-например: alertnotify=echo %%s | mail -s &quot;Freicoin Alert&quot; admin@foo.com
+например: alertnotify=echo %%s | mail -s &quot;Barcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Cannot obtain a lock on data directory %s. Freicoin is probably already running.</source>
-        <translation>Не удается установить блокировку на каталог данных %s.  Возможно, Freicoin уже работает.</translation>
+        <source>Cannot obtain a lock on data directory %s. Barcoin is probably already running.</source>
+        <translation>Не удается установить блокировку на каталог данных %s.  Возможно, Barcoin уже работает.</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -2607,22 +2607,22 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+6"/>
-        <source>Unable to bind to %s on this computer. Freicoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Freicoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. Barcoin is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Barcoin уже работает.</translation>
     </message>
     <message>
         <location line="+8"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Freicoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Freicoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Barcoin will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Barcoin будет работать некорректно.</translation>
     </message>
     <message>
         <location line="+38"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Freicoin</source>
-        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новую версию Freicoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Barcoin</source>
+        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новую версию Barcoin</translation>
     </message>
     <message>
         <location line="+19"/>
-        <source>Freicoin version</source>
+        <source>Barcoin version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2692,8 +2692,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or freicoind</source>
-        <translation>Отправить команду к -server или freicoind</translation>
+        <source>Send command to -server or barcoind</source>
+        <translation>Отправить команду к -server или barcoind</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2727,8 +2727,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify configuration file (default: freicoin.conf)</source>
-        <translation>Указать файл конфигурации (по умолчанию: freicoin.conf)</translation>
+        <source>Specify configuration file (default: barcoin.conf)</source>
+        <translation>Указать файл конфигурации (по умолчанию: barcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2737,8 +2737,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify pid file (default: freicoind.pid)</source>
-        <translation>Указать pid файл (по умолчанию: freicoind.pid)</translation>
+        <source>Specify pid file (default: barcoind.pid)</source>
+        <translation>Указать pid файл (по умолчанию: barcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2782,8 +2782,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+3"/>
-        <source>Wallet needed to be rewritten: restart Freicoin to complete</source>
-        <translation>Необходимо перезаписать кошелек, перезапустите Freicoin для завершения операции.</translation>
+        <source>Wallet needed to be rewritten: restart Barcoin to complete</source>
+        <translation>Необходимо перезаписать кошелек, перезапустите Barcoin для завершения операции.</translation>
     </message>
     <message>
         <location line="+1"/>

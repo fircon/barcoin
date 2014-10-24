@@ -1,14 +1,14 @@
 [Unit]
-Description=Freicoin's distributed currency daemon
+Description=Barcoin's distributed currency daemon
 After=network.target
 
 [Service]
-User=freicoind
-Group=freicoind
+User=barcoind
+Group=barcoind
 
 Type=forking
-PIDFile=/var/lib/freicoind/freicoind.pid
-ExecStart=/usr/bin/freicoind -daemon -pid=/var/lib/freicoind/freicoind.pid -conf=/etc/freicoind.conf -datadir=/var/lib/freicoind 
+PIDFile=/var/lib/barcoind/barcoind.pid
+ExecStart=/usr/bin/barcoind -daemon -pid=/var/lib/barcoind/barcoind.pid -conf=/etc/barcoind.conf -datadir=/var/lib/barcoind 
 
 Restart=always
 PrivateTmp=true
